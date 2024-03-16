@@ -1,4 +1,4 @@
-<img align="right" src="imgs/Frederication-Logo-Animited.svg" width="400px" alt="Logo" title="Logo" />
+<img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/Frederication-Logo-Animited.svg" width="400px" alt="Logo" title="Logo" />
 
 ## Hi there 👋
 
