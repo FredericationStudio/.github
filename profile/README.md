@@ -1,3 +1,4 @@
+<img align="right" src="imgs/Frederication-Logo-Animited.svg" width="400px" alt="Logo" title="Logo" />
 ## Hi there 👋
 
 This is Frederick's Innovation Studio!
