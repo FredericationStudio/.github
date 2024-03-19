@@ -1,9 +1,22 @@
+<img align="right" src="imgs/ohdragonboi.png" width="400px" alt="ohdragonboi" title="ohdragonboi" />
 
+~~人来啦！！！！~~
 
-## Hi there 👋 <img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/Frederication-Logo-Animited.svg" width="30px" alt="Logo" title="Logo" />
+### 正在开发 / Under development:
 
-This is Frederick's Innovation Studio!
+ - Wordpress主题Readfine / Wordpress Theme Readfine
 
-All of the projects are made with ❤️
+### 联系方式 / Contact me:
 
-💤 If you appreciate my work, feel free to follow me on Github～～～～
+ - WeChat: Search WeChat ID Please_Touch_Me
+
+ - Discard: fredkkkkkkkkkkkkk_8888888
+
+ - X(Twitter): [@FrederickAsYou](https://twitter.com/FrederickAsYou)
+
+ - E-mail: [seventeen@ohdragonboi.cn](mailto:seventeen@ohdragonboi.cn)
+
+### 赞助 / Donation:
+
+ - [中国用户点这里 / Chinese users click here](https://afdian.net/a/se7entin)
+ - [非中国用户点这里 / Non-chinese users click here](https://polar.sh/FrederickAsYou)
