@@ -4,7 +4,7 @@
 
 ### 正在开发 / Under development:
 
- - Wordpress主题Readfine / Wordpress Theme Readfine
+ - Wordpress主题Readwell / Wordpress Theme Readwell
 
 ### 联系方式 / Contact me:
 
