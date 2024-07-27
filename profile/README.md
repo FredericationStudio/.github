@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/FredericationStudio/.github/blob/main/imgs/ohdragonboi.png" width="475px" alt="ohdragonboi" title="ohdragonboi" />
-
 ~~人来啦！！！！~~
 
 ### 正在开发 / Under development:
